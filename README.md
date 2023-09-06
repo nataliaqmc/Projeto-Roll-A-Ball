@@ -10,5 +10,5 @@
   - [ ] Adicionar música ao seu jogo (+1 ponto)
   - [ ] Adicionar Audio Fx no seu jogo (+1 ponto)
 ### Referências:
-  -  https://learn.unity.com/project/roll-a-ball
-  -  
+  -  Tutorial: https://learn.unity.com/project/roll-a-ball
+  -  Música:
